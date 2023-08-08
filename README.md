@@ -2,7 +2,7 @@
 
 <h2>👨‍💻 Helpdesk Projects:</h2>
 
-  - [Link Title](Link)
+  - [Helpdesk 2](Link)
   - [Link Title](Link) <b><i>(Additional Information)</b></i>
   - [Link Title](Link) <b><i>(Additional Information)</b></i>
 
