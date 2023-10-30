@@ -8,7 +8,7 @@
 
 <h2>📜 Certifications:</h2>
 
-  - [Vulnerability Detection and Responce](https://github.com/ConnorTakacs/Certifications/blob/main/Vulnerability%20Management%20Detection%20and%20Response.pdf)
+  - [Vulnerability Detection and Response](https://github.com/ConnorTakacs/Certifications/blob/main/Vulnerability%20Management%20Detection%20and%20Response.pdf)
   - [Scanning Strategies and Best Practices](https://github.com/ConnorTakacs/Certifications/blob/main/Scanning%20Strategies%20and%20Best%20Practices.pdf)
   - [Reporting Strategies and Best Practices](https://github.com/ConnorTakacs/Certifications/blob/main/Reporting%20Strategies%20and%20Best%20Practices.pdf)
 
