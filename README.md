@@ -8,9 +8,9 @@
 
 <h2>📜 Certifications:</h2>
 
-  - [PCCET](Link)
-  - [Network+](Link)
-  - [Splunk Certified Core User](Link)
+  - [Vulnerability Detection and Responce](Link)
+  - [Scanning Strategies and Best Practices](Link)
+  - [Reporting Strategies and Best Practices](Link)
   - [AZ-900](Link)
 
 <h2>🛡️ Information Security Projects</h2>
