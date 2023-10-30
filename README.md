@@ -8,10 +8,9 @@
 
 <h2>📜 Certifications:</h2>
 
-  - [Vulnerability Detection and Responce](Link)
+  - [Vulnerability Detection and Responce](https://github.com/ConnorTakacs/Certifications/blob/main/Vulnerability%20Management%20Detection%20and%20Response.pdf)
   - [Scanning Strategies and Best Practices](Link)
   - [Reporting Strategies and Best Practices](Link)
-  - [AZ-900](Link)
 
 <h2>🛡️ Information Security Projects</h2>
 
