@@ -1,4 +1,4 @@
-# ConnorTakacs<h1>Hi, I'm Connor Takacs! <a href="https://www.linkedin.com/in/yourlinkedin/"> </a>
+# ConnorTakacs<h1> <a href="https://www.linkedin.com/in/yourlinkedin/"> </a>
 
 <h2>👨‍💻 Helpdesk Projects:</h2>
 
