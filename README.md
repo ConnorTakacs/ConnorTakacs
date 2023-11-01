@@ -11,6 +11,7 @@
   - [Vulnerability Detection and Response](https://github.com/ConnorTakacs/Certifications/blob/main/Vulnerability%20Management%20Detection%20and%20Response.pdf)
   - [Scanning Strategies and Best Practices](https://github.com/ConnorTakacs/Certifications/blob/main/Scanning%20Strategies%20and%20Best%20Practices.pdf)
   - [Reporting Strategies and Best Practices](https://github.com/ConnorTakacs/Certifications/blob/main/Reporting%20Strategies%20and%20Best%20Practices.pdf)
+  - [Cloud Agent](https://github.com/ConnorTakacs/Certifications/blob/main/Cloud%20Agent.pdf)
 
 <h2>🛡️ Information Security Projects</h2>
 
